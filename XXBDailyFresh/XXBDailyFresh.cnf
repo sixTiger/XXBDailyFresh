@@ -1,0 +1,5 @@
+[client]
+database = daily_fresh
+user = root
+password = root.com
+default-character-set = utf8
